@@ -41,7 +41,7 @@ saldo = 1000.55; //valor float
 	//NaN  es un valor ilogico, ejemplo multiplicar un numero por texto
 */
 
-
+/*
 var paises = ["Honduras", "Guatemala", "Nicaragua"];
 //console.log(paises.length + " paises");
 //arreglo.length cuenta la cantidad de elementos que tiene un arreglo
@@ -55,5 +55,27 @@ var paises3 = paises.concat(paises2); //Concatena dos arreglos
 
 console.log(paises.join(":")); // une la cadena a cada elemento
 var ordenados = paises.sort(); // ordena los elementos del arreglo, en este caso alfabeticamente
+*/
+
+//-----------condicionales--------------
+
+// > mayor que
+// < menor que
+// >= mayor o igual
+// >= menor o igual
+// == igual que 
+// != distinto de
+// && and
+// || or
+/*
+	if (codicion){
+		instrucion	
+	} else{
+		instruccion
+	}
+*/	
+
+
+// ------------Ciclo for--------
 
 
