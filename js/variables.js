@@ -77,5 +77,17 @@ var ordenados = paises.sort(); // ordena los elementos del arreglo, en este caso
 
 
 // ------------Ciclo for--------
+/*
+	for (var i = 0; i <= 5; i++) {
+		instrucion
+	}
+*/
 
 
+//--------------ciclo while----------
+/*
+	while(condicion){
+		expresion
+	}
+
+*/
