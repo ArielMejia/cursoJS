@@ -1,4 +1,4 @@
-var nombre = "Kevin"; //variable
+/*var nombre = "Kevin"; //variable
 //nombre = prompt("Ingresa tu nombre"); //esta funcion permite almacenar un nombre y un valor
 //edad = prompt("ingresa tu edad");
 saldo = 1000.55; //valor float
@@ -39,5 +39,21 @@ saldo = 1000.55; //valor float
 	var numero = null;
 
 	//NaN  es un valor ilogico, ejemplo multiplicar un numero por texto
-	
+*/
+
+
+var paises = ["Honduras", "Guatemala", "Nicaragua"];
+//console.log(paises.length + " paises");
+//arreglo.length cuenta la cantidad de elementos que tiene un arreglo
+paises[paises.length] = "El salvador";
+paises.push("Colombia"); // Agregar un elemento al final del arreglo
+paises.pop(); // Elimina el ultimo elemento del arreglo
+
+var paises2 = ["Alemania","Francia"];
+
+var paises3 = paises.concat(paises2); //Concatena dos arreglos
+
+console.log(paises.join(":")); // une la cadena a cada elemento
+var ordenados = paises.sort(); // ordena los elementos del arreglo, en este caso alfabeticamente
+
 
