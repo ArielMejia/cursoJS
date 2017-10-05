@@ -91,3 +91,17 @@ var ordenados = paises.sort(); // ordena los elementos del arreglo, en este caso
 	}
 
 */
+
+//-------------funciones-------------
+
+/*
+	var fun = function(parametros){
+		instruciones
+		return opcional
+	}
+
+	function fun(parametros){
+	instrucciones
+	}
+
+*/
