@@ -112,3 +112,17 @@ var ordenados = paises.sort(); // ordena los elementos del arreglo, en este caso
 	innerHTML // propiedad para acceder al contenido de las etiquetas
 	document.getElementsById("id"); //obtiene los elementos especificos mediante su id
 */
+
+// -----------Crear elementos-----------------
+/*
+// 1. crear el elemento
+	var elemento = document.createElement("h2");
+// 2. crear un nodo texto
+	var contenido = document.createTextNode("Este es nuestro titulo");
+// 3. añadir el nodo texto al elemento
+	elemento.appendChild(contenido);
+// 4. agregar atributos al elemento
+	elemento.setSttribute("aling", "center");
+// 5. agregar el elmento al documento
+	document.getElementsById("subtitulo").appendChild("elemento");
+	*/
