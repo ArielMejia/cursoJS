@@ -105,3 +105,10 @@ var ordenados = paises.sort(); // ordena los elementos del arreglo, en este caso
 	}
 
 */
+
+// -------------DOM----------------------
+/*
+	document.getElementsByTagName("p"); // obtiene los elementos especificados por etiqueta
+	innerHTML // propiedad para acceder al contenido de las etiquetas
+	document.getElementsById("id"); //obtiene los elementos especificos mediante su id
+*/
